@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7D68DC47-01FF-0D5D-13C4-240963855432}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FoodData.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ARPet.cs" Line="131" Column="1" />
+      <File FileName="Assets/Scripts/AIBehaviour.cs" Line="125" Column="11" />
+      <File FileName="Assets/Mapbox/Unity/Ar/AverageHeadingAlignmentStrategy.cs" Line="62" Column="31" />
+      <File FileName="Assets/Mapbox/Unity/Ar/SimpleAutomaticSynchronizationContext.cs" Line="156" Column="27" />
+      <File FileName="Assets/Scripts/Controls/Joystick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Animals/Common/Scripts/Utility/LookAt.cs" Line="144" Column="1" />
+      <File FileName="Assets/Scripts/PlayerPetHandler.cs" Line="74" Column="11" />
+      <File FileName="Assets/Animals/Common/Scripts/Behaviors/AttackBehaviour.cs" Line="39" Column="14" />
+      <File FileName="Assets/Scripts/FoodService.cs" Line="62" Column="56" />
+      <File FileName="Assets/Scripts/ARFoodProvider.cs" Line="20" Column="49" />
+      <File FileName="Assets/Mapbox/Unity/MeshGeneration/LayerVisualizers/VectorLayerVisualizer.cs" Line="134" Column="1" />
+      <File FileName="Assets/Scripts/UnityMessageManager.cs" Line="115" Column="4" />
+      <File FileName="Assets/Scripts/FoodData.cs" Line="50" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

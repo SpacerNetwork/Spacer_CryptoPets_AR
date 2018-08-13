@@ -1,2 +1,1 @@
-# Spacer_CryptoPets_AR
-Unity side of CryptoPets.
+# CrpytoPets AR game (Unity + Loom SDK and simple React Native side)

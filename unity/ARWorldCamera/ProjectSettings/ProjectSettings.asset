@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Spacer Network
-  productName: CryptoPets
+  productName: Spacer_CryptoPets_AR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -47,7 +47,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 600
   defaultScreenHeightWeb: 450
   m_StereoRenderingPath: 0
-  m_ActiveColorSpace: 1
+  m_ActiveColorSpace: 0
   m_MTRendering: 1
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
   iosShowActivityIndicatorOnLoading: -1
@@ -231,7 +231,7 @@ PlayerSettings:
   metalEditorSupport: 0
   metalAPIValidation: 0
   iOSRenderExtraFrameOnPause: 1
-  appleDeveloperTeamID: GJZR2MEM28
+  appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
   iOSManualSigningProvisioningProfileType: 0
@@ -648,7 +648,7 @@ PlayerSettings:
   incrementalIl2cppBuild: {}
   allowUnsafeCode: 0
   additionalIl2CppArgs: 
-  scriptingRuntimeVersion: 0
+  scriptingRuntimeVersion: 1
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
@@ -759,7 +759,7 @@ PlayerSettings:
     UNet: 0
     Unity_Ads: 0
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: 37052039-45e5-410a-8856-6c6a57c9e06a
   projectName: CryptoPets (1)
   organizationId: anton-kamolins

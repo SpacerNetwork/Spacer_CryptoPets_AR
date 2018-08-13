@@ -791,6 +791,7 @@ GameObject:
   m_Component:
   - component: {fileID: 962998072}
   - component: {fileID: 962998071}
+  - component: {fileID: 962998073}
   m_Layer: 0
   m_Name: PlayerPetHandler
   m_TagString: Untagged
@@ -856,6 +857,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &962998073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 962998070}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f52faf916f72048bd974d91867f2996c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleStoreABI: {fileID: 4900000, guid: 9d9f670b7441d4245afcd5e39abd52eb, type: 3}
+  simpleStoreAddress: {fileID: 4900000, guid: 32600e49d52bf4b728104f5d8f842ffe, type: 3}
 --- !u!1001 &1002213147
 Prefab:
   m_ObjectHideFlags: 0
